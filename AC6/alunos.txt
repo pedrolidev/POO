@@ -1,0 +1,3 @@
+nome,curso,matricula
+Cesar Barros, Análise de Desenvolvimento de Sistemas, 20234597125
+Gustavo Raia,Ciencia de Dados, 2022468977
